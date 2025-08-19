@@ -1,6 +1,5 @@
 # Video Game Sales Analysis
-
-## Секреты Темнолесья — анализ игровой индустрии
+## Анализ игровой индустрии
 
 ### Описание проекта
 Проект посвящён исследованию развития мировой игровой индустрии с 2000 по 2013 год.  
@@ -27,7 +26,25 @@
 4. Анализ влияния оценок и рейтингов.
 5. Итоговые выводы.
 
-### Как открыть проект
-```bash
-git clone https://github.com/Ekaterina-i/video-game-sales-analysis.git
-# video-game-sales-analysis
+## Как запустить проект
+
+1. **Клонируйте репозиторий** на свой компьютер:
+   ```bash
+   git clone https://github.com/Ekaterina-i/video-game-sales-analysis.git
+   cd moscow-foodservice-analysis
+   ```
+
+2. **(Рекомендуется) Создайте и активируйте виртуальное окружение** (опционально, но желательно для изоляции зависимостей).
+
+3. **Установите необходимые зависимости** из файла `requirements.txt`:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. **Запустите Jupyter Notebook** и откройте файл `Project_7.ipynb`:
+   ```bash
+   jupyter notebook
+   ```
+
+## Автор
+Екатерина Игнатьева
