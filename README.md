@@ -31,7 +31,7 @@
 1. **Клонируйте репозиторий** на свой компьютер:
    ```bash
    git clone https://github.com/Ekaterina-i/video-game-sales-analysis.git
-   cd moscow-foodservice-analysis
+   cd video-game-sales-analysis
    ```
 
 2. **(Рекомендуется) Создайте и активируйте виртуальное окружение** (опционально, но желательно для изоляции зависимостей).
